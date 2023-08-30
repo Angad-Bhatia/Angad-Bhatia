@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Angad-Bhatia/Angad-Bhatia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +16,6 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+#Hello there! My name is Angad Bhatia. Although my one true passion in life is film, programming is a close second. I transitioned into software development at a crucial time in my life. I felt like I didn't have any true skills and had no motivation in advancing my career. Moving into software development provided me with a purpose, and it allowed me to get to my roots as a "Math Brain" type of person. It's the biggest decision in my life that I'm the most proud of, but I don't think I'll ever look back!
 
